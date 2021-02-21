@@ -29,3 +29,25 @@ function test() {
     console.log("Hello world!");
 }
 ```
+
+Experience
+-------------
+
+* Front End Developer Nanodegree Program - [сertificate](https://confirm.udacity.com/AFYZY6LS)
+
+**projects within the course:**
+
+1. *Personal Blog* <br>
+2. *Landing Page* <br>
+3. *Weather Journal App* <br>
+4. *News Article with Natural Language Processing* <br>
+5. *Travel App*
+
+Education
+---------------
+
+2014-2018
+* **Bachelor's degree:** National University of Oil and Gas «Gubkin University» 
+
+2020 (7 month)
+* Front End Developer Nanodegree Program
