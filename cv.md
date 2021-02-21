@@ -51,3 +51,10 @@ Education
 
 2020 (7 month)
 * Front End Developer Nanodegree Program
+
+English language
+-------------------
+
+*My english level is b1. I studied English at the university and in language courses.*
+
+*The previous program for the study of the front end for 7 months I passed exclusively in English.*
