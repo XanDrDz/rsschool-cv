@@ -1,0 +1,71 @@
+.avt {
+    width: 109px;
+    height: 109px;
+    border: 1px solid black;
+}
+
+body {
+    margin: 40px;
+    font-family: "Adobe Caslon Pro", "Minion Pro", serif;
+    font-size: 12pt;
+}
+
+header {
+    font-family: "Trajan Pro", serif;
+    padding-bottom: 10px;
+}
+
+header h1 {
+    display: inline-block;
+    text-align: center;
+    font-size: 30pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+    margin-left: 50px;
+}
+
+header span {
+    font-size: 10pt;
+    float: right;
+}
+
+.about {
+    border-bottom: 1px solid black;
+}
+
+.about p {
+    padding-left: 9%;
+}
+
+.skills {
+    border-bottom: 1px solid black;
+}
+
+.skills ul {
+    padding-left: 9%;
+}
+
+.experience {
+    border-bottom: 1px solid black;
+}
+
+.experience ol {
+    padding-left: 9%;
+}
+
+.experience ul {
+    padding-left: 9%;
+}
+
+.education {
+    border-bottom: 1px solid black;
+}
+
+.education ul {
+    padding-left: 9%;
+}
+
+.english p {
+    padding-left: 9%; 
+}
