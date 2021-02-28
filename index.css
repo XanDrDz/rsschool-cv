@@ -37,7 +37,7 @@ header h1 {
     margin-left: 2%;
 }
 
-header span {
+header ul {
     font-size: 10pt;
     float: right;
 }
@@ -60,6 +60,16 @@ header span {
     padding-left: 9%;
     position: relative;
     bottom: 30px;
+}
+
+.code {
+    border-bottom: 1px solid black;
+}
+
+code {
+    padding-left: 9%;
+    position: relative;
+    bottom: 20px;
 }
 
 .experience {
