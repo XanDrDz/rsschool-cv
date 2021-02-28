@@ -2,8 +2,8 @@
     width: 109px;
     height: 109px;
     border: 1px solid black;
-    margin-bottom: 12px;
     margin-left: 12px;
+    margin-top: 40px;
 }
 
 body {
@@ -22,10 +22,11 @@ header {
 
 header h1 {
     display: inline-block;
+    position: relative;
+    bottom: 35px;
     font-size: 30pt;
     letter-spacing: 10pt;
     margin-left: 5%;
-    padding-top: 10px;
 }
 
 header span {
@@ -37,8 +38,10 @@ header span {
     border-bottom: 1px solid black;
 }
 
-.about p {
+.about article {
     padding-left: 9%;
+    position: relative;
+    bottom: 30px;
 }
 
 .skills {
@@ -47,6 +50,8 @@ header span {
 
 .skills ul {
     padding-left: 9%;
+    position: relative;
+    bottom: 30px;
 }
 
 .experience {
@@ -55,10 +60,14 @@ header span {
 
 .experience ol {
     padding-left: 9%;
+    position: relative;
+    bottom: 20px;
 }
 
 .experience ul {
     padding-left: 9%;
+    position: relative;
+    bottom: 20px;
 }
 
 .education {
@@ -67,6 +76,8 @@ header span {
 
 .education ul {
     padding-left: 9%;
+    position: relative;
+    bottom: 43px;
 }
 
 .english p {
@@ -75,4 +86,15 @@ header span {
 
 h2 {
     color: rgb(151, 151, 14);
+}
+
+h3 {
+    padding-left: 8%;
+    position: relative;
+    bottom: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
 }
