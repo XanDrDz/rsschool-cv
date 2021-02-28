@@ -1,3 +1,11 @@
+figcaption {
+display: none;
+}
+
+figure {
+    display: inline-block;
+}
+
 .avt {
     width: 109px;
     height: 109px;
@@ -26,7 +34,7 @@ header h1 {
     bottom: 35px;
     font-size: 30pt;
     letter-spacing: 10pt;
-    margin-left: 5%;
+    margin-left: 2%;
 }
 
 header span {
@@ -38,7 +46,7 @@ header span {
     border-bottom: 1px solid black;
 }
 
-.about article {
+.about p {
     padding-left: 9%;
     position: relative;
     bottom: 30px;
@@ -95,6 +103,7 @@ h3 {
 }
 
 footer {
-    position: fixed;
-    bottom: 10px;
+    position: relative;
+    top: 120px;
+    font-size: 12px;
 }
